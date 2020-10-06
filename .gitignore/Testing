@@ -1,0 +1,4 @@
+myvar = "General Kenobi"
+myvar2 = "Come here my little friend."
+
+print(myvar or myvar2)
